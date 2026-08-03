@@ -13,7 +13,7 @@ def get_requirements(file_path:str) -> List[str]:
     return requirements
 
 setup(
-    name= "Krish_Nayak_ml",
+    name= "Tuhin_ml",
     version = "0.0.1",
     author = "Tuhin",
     packages= find_packages(),
